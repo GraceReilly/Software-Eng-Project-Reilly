@@ -85,6 +85,7 @@
     <Compile Include="Assets\DreamForestTree\PostProcessing\Runtime\Utils\ColorGradingCurve.cs" />
     <Compile Include="Assets\TutorialInfo\Scripts\Readme.cs" />
     <Compile Include="Assets\DreamForestTree\PostProcessing\Runtime\Components\GrainComponent.cs" />
+    <Compile Include="Assets\GraveyardProps\Scripts\rotate.cs" />
     <Compile Include="Assets\DreamForestTree\PostProcessing\Runtime\PostProcessingProfile.cs" />
     <Compile Include="Assets\DreamForestTree\PostProcessing\Runtime\Models\BloomModel.cs" />
     <Compile Include="Assets\DreamForestTree\PostProcessing\Runtime\Models\EyeAdaptationModel.cs" />
@@ -125,10 +126,12 @@
     <None Include="Assets\DreamForestTree\PostProcessing\Resources\Shaders\UberSecondPass.cginc" />
     <None Include="Assets\DreamForestTree\PostProcessing\Resources\Bluenoise64\LICENSE.txt" />
     <None Include="Assets\DreamForestTree\PostProcessing\Resources\Shaders\ACES.cginc" />
+    <None Include="Assets\GraveyardProps\Docs\About.txt" />
     <None Include="Assets\DreamForestTree\PostProcessing\Resources\Shaders\MotionBlur.cginc" />
     <None Include="Assets\DreamForestTree\PostProcessing\Resources\Shaders\AmbientOcclusion.shader" />
     <None Include="Assets\DreamForestTree\PostProcessing\Resources\Shaders\FXAA.shader" />
     <None Include="Assets\DreamForestTree\PostProcessing\Resources\Shaders\ScreenSpaceRaytrace.cginc" />
+    <None Include="Assets\GraveyardProps\Shaders\Shader_ShadowCatch.shader" />
     <None Include="Assets\DreamForestTree\PostProcessing\Resources\Shaders\Tonemapping.cginc" />
     <None Include="Assets\DreamForestTree\PostProcessing\Resources\Shaders\Fog.shader" />
     <None Include="Assets\DreamForestTree\PostProcessing\Editor Resources\Monitors\ParadeRender.shader" />
@@ -149,6 +152,7 @@
     <None Include="Assets\DreamForestTree\PostProcessing\Editor Resources\Monitors\WaveformCompute.compute" />
     <None Include="Assets\DreamForestTree\PostProcessing\Resources\Shaders\DepthOfField.cginc" />
     <None Include="Assets\Potions\ReadMe.txt" />
+    <None Include="Assets\GraveyardProps\Shaders\Shader_LightAtten.shader" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
