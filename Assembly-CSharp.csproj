@@ -148,6 +148,7 @@
     <None Include="Assets\DreamForestTree\PostProcessing\Resources\Shaders\Bloom.cginc" />
     <None Include="Assets\DreamForestTree\PostProcessing\Editor Resources\Monitors\WaveformCompute.compute" />
     <None Include="Assets\DreamForestTree\PostProcessing\Resources\Shaders\DepthOfField.cginc" />
+    <None Include="Assets\Potions\ReadMe.txt" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
