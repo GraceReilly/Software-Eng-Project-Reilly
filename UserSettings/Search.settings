@@ -13,6 +13,16 @@ scopes = {
 	"last_search.0B486DF2" = ""
 	"OpenInspectorPreview.0B486DF2" = "0"
 	"currentGroup.0B486DF2" = null
+	"picker_window_position_offset.74AD8FDB" = "700;344;320;550"
+	"picker_search_text.74AD8FDB" = "fla"
+	"last_search.74AD8FDB" = "fla"
+	"OpenInspectorPreview.74AD8FDB" = "0"
+	"currentGroup.74AD8FDB" = null
+	"picker_window_position_offset.7E63D72B" = "1053;265;320;550"
+	"picker_search_text.7E63D72B" = ""
+	"last_search.7E63D72B" = ""
+	"OpenInspectorPreview.7E63D72B" = "0"
+	"currentGroup.7E63D72B" = null
 }
 providers = {
 	log = {
@@ -69,6 +79,7 @@ providers = {
 objectSelectors = {
 }
 recentSearches = [
+	"simple"
 ]
 searchItemFavorites = [
 ]
@@ -77,7 +88,7 @@ showSavedSearchPanel = false
 hideTabs = false
 expandedQueries = [
 ]
-queryBuilder = false
+queryBuilder = true
 ignoredProperties = "id;name;classname;imagecontentshash"
 helperWidgetCurrentArea = "all"
 disabledIndexers = ""
