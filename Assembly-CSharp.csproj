@@ -68,6 +68,7 @@
     <Compile Include="Assets\DreamForestTree\PostProcessing\Runtime\Components\UserLutComponent.cs" />
     <Compile Include="Assets\DreamForestTree\PostProcessing\Runtime\Models\DepthOfFieldModel.cs" />
     <Compile Include="Assets\DreamForestTree\PostProcessing\Runtime\Components\ScreenSpaceReflectionComponent.cs" />
+    <Compile Include="Assets\XR_Hand_Controller.cs" />
     <Compile Include="Assets\DreamForestTree\PostProcessing\Runtime\PostProcessingContext.cs" />
     <Compile Include="Assets\DreamForestTree\PostProcessing\Runtime\Components\DepthOfFieldComponent.cs" />
     <Compile Include="Assets\DreamForestTree\PostProcessing\Runtime\Models\FogModel.cs" />
@@ -94,8 +95,8 @@
     <Compile Include="Assets\DreamForestTree\PostProcessing\Runtime\Models\ChromaticAberrationModel.cs" />
     <Compile Include="Assets\DreamForestTree\PostProcessing\Runtime\Utils\MaterialFactory.cs" />
     <Compile Include="Assets\DreamForestTree\PostProcessing\Runtime\Attributes\TrackballGroupAttribute.cs" />
-    <Compile Include="Assets\FirstScript.cs" />
     <Compile Include="Assets\DreamForestTree\Script\ScrollUVWater.cs" />
+    <Compile Include="Assets\Hand_script.cs" />
     <Compile Include="Assets\DreamForestTree\PostProcessing\Runtime\Models\BuiltinDebugViewsModel.cs" />
     <Compile Include="Assets\DreamForestTree\PostProcessing\Runtime\Models\GrainModel.cs" />
     <Compile Include="Assets\DreamForestTree\PostProcessing\Runtime\PostProcessingModel.cs" />
