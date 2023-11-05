@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.XR;
-
+// I followed this tutorial for the below code. https://www.youtube.com/watch?v=Sn-u6VacmJw&t=113s&ab_channel=Novaborn
 // Define the hand left & right
 public enum HandType
 {

@@ -63,6 +63,7 @@
     <Compile Include="Assets\DreamForestTree\PostProcessing\Runtime\Models\DitheringModel.cs" />
     <Compile Include="Assets\DreamForestTree\PostProcessing\Runtime\Components\ChromaticAberrationComponent.cs" />
     <Compile Include="Assets\DreamForestTree\PostProcessing\Runtime\Components\EyeAdaptationComponent.cs" />
+    <Compile Include="Assets\Wrist_Ui.cs" />
     <Compile Include="Assets\DreamForestTree\PostProcessing\Runtime\Attributes\MinAttribute.cs" />
     <Compile Include="Assets\DreamForestTree\PostProcessing\Runtime\Attributes\GetSetAttribute.cs" />
     <Compile Include="Assets\DreamForestTree\PostProcessing\Runtime\Components\UserLutComponent.cs" />
@@ -938,6 +939,9 @@
     </Reference>
     <Reference Include="Unity.VisualScripting.State">
       <HintPath>Library\ScriptAssemblies\Unity.VisualScripting.State.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.2D.Sprite.Editor">
+      <HintPath>Library\ScriptAssemblies\Unity.2D.Sprite.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Burst.Editor">
       <HintPath>Library\ScriptAssemblies\Unity.Burst.Editor.dll</HintPath>
