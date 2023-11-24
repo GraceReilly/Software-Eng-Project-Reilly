@@ -3754,6 +3754,14 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   _tip: {fileID: 834351809}
   _penSize: 15
+  _renderer: {fileID: 0}
+  _colors: []
+  _tipHeight: 0
+  _whiteboard: {fileID: 0}
+  _touchPos: {x: 0, y: 0}
+  _touchedLastFrame: 0
+  _lastTouchPos: {x: 0, y: 0}
+  _lastTouchRot: {x: 0, y: 0, z: 0, w: 0}
 --- !u!114 &274617624
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -6031,17 +6039,17 @@ PrefabInstance:
     - target: {fileID: 2794759551505192079, guid: a59f6548c14dfa84ba2ca07e21ce1543,
         type: 3}
       propertyPath: m_LocalPosition.x
-      value: -3.8266
+      value: -5.89
       objectReference: {fileID: 0}
     - target: {fileID: 2794759551505192079, guid: a59f6548c14dfa84ba2ca07e21ce1543,
         type: 3}
       propertyPath: m_LocalPosition.y
-      value: -1.0843
+      value: -1.1
       objectReference: {fileID: 0}
     - target: {fileID: 2794759551505192079, guid: a59f6548c14dfa84ba2ca07e21ce1543,
         type: 3}
       propertyPath: m_LocalPosition.z
-      value: 14.642
+      value: 14.66
       objectReference: {fileID: 0}
     - target: {fileID: 2794759551505192079, guid: a59f6548c14dfa84ba2ca07e21ce1543,
         type: 3}
