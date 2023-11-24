@@ -57,6 +57,7 @@
   <ItemGroup>
     <Compile Include="Assets\DreamForestTree\PostProcessing\Runtime\Components\VignetteComponent.cs" />
     <Compile Include="Assets\DreamForestTree\PostProcessing\Runtime\Components\TaaComponent.cs" />
+    <Compile Include="Assets\Lights Flicker.cs" />
     <Compile Include="Assets\DreamForestTree\PostProcessing\Runtime\Components\MotionBlurComponent.cs" />
     <Compile Include="Assets\DreamForestTree\PostProcessing\Runtime\Components\BloomComponent.cs" />
     <Compile Include="Assets\DreamForestTree\PostProcessing\Runtime\Components\DitheringComponent.cs" />
