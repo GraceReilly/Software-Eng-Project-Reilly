@@ -93,6 +93,7 @@
     <Compile Include="Assets\DreamForestTree\PostProcessing\Runtime\Models\BloomModel.cs" />
     <Compile Include="Assets\DreamForestTree\PostProcessing\Runtime\Models\EyeAdaptationModel.cs" />
     <Compile Include="Assets\DreamForestTree\Script\FreeCam.cs" />
+    <Compile Include="Assets\GameManager.cs" />
     <Compile Include="Assets\DreamForestTree\PostProcessing\Runtime\Components\BuiltinDebugViewsComponent.cs" />
     <Compile Include="Assets\DreamForestTree\PostProcessing\Runtime\Models\ChromaticAberrationModel.cs" />
     <Compile Include="Assets\DreamForestTree\PostProcessing\Runtime\Utils\MaterialFactory.cs" />
@@ -176,6 +177,7 @@
     <None Include="Assets\TextMesh Pro\Fonts\LiberationSans - OFL.txt" />
     <None Include="Assets\GraveyardProps\Shaders\Shader_LightAtten.shader" />
     <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF-Mobile.shader" />
+    <None Include="Assets\_Television_set\SpecGrayscaleSF.shader" />
     <None Include="Assets\TextMesh Pro\Shaders\TMP_Sprite.shader" />
   </ItemGroup>
   <ItemGroup>
