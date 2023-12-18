@@ -55,6 +55,7 @@
 | Reverb Radio | - Integrated a radio with a reverb zone for spatial audio effects. |
 | Reverb Light Flickering Sound | - Utilized reverb zone for a couple of lights flickering that go on and off, with sound effects. |
 
+
 ## UI:
 
 | Feature | Description |
@@ -62,6 +63,8 @@
 | Wrist Menu UI | - The user interface is attached to the players wrist. |
 | Keypad Code UI | - when the player enters the correct code on the keypad which has buttons the player can press, the display panel will show what numbers have been entered and if it is the correct password or not. |
 | Clock Countdown UI | - this element uses the **game manager** to set the time the clock count downs from. |
+
+
 
 ## Animations:
 
