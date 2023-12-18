@@ -72,3 +72,10 @@
 | ------- | ----------- |
 | Puzzle lid animate | - The idea for this is that the lid on the puzzle lifts up when the correct placement of the puzzle has been entered only then the lid of the puzzle lifts up. |
 
+## OOD Design Principles:
+
+| Feature | Description |
+| ------- | ----------- |
+| Puzzle Script **Encapsulation** | - The puzzle script includes encapsulation by using private fields example 'NumberOfClassToComplete'. Also the private methods such as 'CheckForPuzzleCompletion' as they can only be accessed within the puzzle manager class. |
+
+
