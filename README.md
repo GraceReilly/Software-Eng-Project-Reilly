@@ -83,6 +83,9 @@
 | Light Flickering Script **Encapsulation** | - The light flickering script includes encapsulation by using private fields such as 'minTime' & 'timer'. |
 | Wrist UI Script **Composition** | - The wrist UI script has 'canvas' component. |
 | Wrist UI Script **Abstraction** | - The wrist UI script uses abstraction as it has the 'toggleMenu' method for toggling between the visibility of the wrist menu. |
+| Puzzle Piece Script **Composition** | - The script has the XRSocketInteractor which is useed to allow the puzzle piece to interact with the sockets in the XR toolkit. |
+| Puzzle Piece Script **Design Pattern** | - has a pattern using event listeners such as 'selectEntered' & 'selectExited' for the XRSocketInteractor. |
+| Puzzle Piece Script **Abstraction Pattern** | - uses abstract methods for object removal and object snapping. The methods such as 'objectSnapped' and 'ObjectRemoved' |
 
 
 
