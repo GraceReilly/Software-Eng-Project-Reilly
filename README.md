@@ -77,5 +77,13 @@
 | Feature | Description |
 | ------- | ----------- |
 | Puzzle Script **Encapsulation** | - The puzzle script includes encapsulation by using private fields example 'NumberOfClassToComplete'. Also the private methods such as 'CheckForPuzzleCompletion' as they can only be accessed within the puzzle manager class. |
+| Puzzle Script **Encapsulation** | - The puzzle script includes encapsulation by using private methods for example 'PuzzlePieceRemoved'. |
+| Light Flickering Script **Encapsulation** | - The light flickering script includes encapsulation by using public field for 'lightOB' and 'lightSound'. |
+| Light Flickering Script **Composition** | - The light flickering script includes composition as it has existing components from unity such as audioSource and Light. |
+| Light Flickering Script **Encapsulation** | - The light flickering script includes encapsulation by using private fields such as 'minTime' & 'timer'. |
+| Wrist UI Script **Composition** | - The wrist UI script has 'canvas' component. |
+| Wrist UI Script **Abstraction** | - The wrist UI script uses abstraction as it has the 'toggleMenu' method for toggling between the visibility of the wrist menu. |
+
+
 
 
