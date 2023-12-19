@@ -57,26 +57,27 @@
   <ItemGroup>
     <Compile Include="Assets\DreamForestTree\PostProcessing\Runtime\Components\VignetteComponent.cs" />
     <Compile Include="Assets\DreamForestTree\PostProcessing\Runtime\Components\TaaComponent.cs" />
-    <Compile Include="Assets\Lights Flicker.cs" />
     <Compile Include="Assets\DreamForestTree\PostProcessing\Runtime\Components\MotionBlurComponent.cs" />
     <Compile Include="Assets\DreamForestTree\PostProcessing\Runtime\Components\BloomComponent.cs" />
     <Compile Include="Assets\DreamForestTree\PostProcessing\Runtime\Components\DitheringComponent.cs" />
+    <Compile Include="Assets\Scripts\Wrist_Ui.cs" />
     <Compile Include="Assets\DreamForestTree\PostProcessing\Runtime\Models\DitheringModel.cs" />
     <Compile Include="Assets\DreamForestTree\PostProcessing\Runtime\Components\ChromaticAberrationComponent.cs" />
     <Compile Include="Assets\DreamForestTree\PostProcessing\Runtime\Components\EyeAdaptationComponent.cs" />
-    <Compile Include="Assets\Wrist_Ui.cs" />
+    <Compile Include="Assets\Scripts\KeypadController.cs" />
+    <Compile Include="Assets\Scripts\XR_Hand_Controller.cs" />
     <Compile Include="Assets\DreamForestTree\PostProcessing\Runtime\Attributes\MinAttribute.cs" />
     <Compile Include="Assets\DreamForestTree\PostProcessing\Runtime\Attributes\GetSetAttribute.cs" />
     <Compile Include="Assets\DreamForestTree\PostProcessing\Runtime\Components\UserLutComponent.cs" />
     <Compile Include="Assets\DreamForestTree\PostProcessing\Runtime\Models\DepthOfFieldModel.cs" />
     <Compile Include="Assets\DreamForestTree\PostProcessing\Runtime\Components\ScreenSpaceReflectionComponent.cs" />
-    <Compile Include="Assets\XR_Hand_Controller.cs" />
     <Compile Include="Assets\DreamForestTree\PostProcessing\Runtime\PostProcessingContext.cs" />
     <Compile Include="Assets\DreamForestTree\PostProcessing\Runtime\Components\DepthOfFieldComponent.cs" />
     <Compile Include="Assets\DreamForestTree\PostProcessing\Runtime\Models\FogModel.cs" />
     <Compile Include="Assets\DreamForestTree\PostProcessing\Runtime\Components\FxaaComponent.cs" />
     <Compile Include="Assets\PBR_Grass_Textures\Scripts\CameraFreeflight.cs" />
     <Compile Include="Assets\DreamForestTree\PostProcessing\Runtime\Components\ColorGradingComponent.cs" />
+    <Compile Include="Assets\Scripts\PuzzlePiece.cs" />
     <Compile Include="Assets\DreamForestTree\PostProcessing\Runtime\Models\VignetteModel.cs" />
     <Compile Include="Assets\DreamForestTree\PostProcessing\Runtime\Utils\RenderTextureFactory.cs" />
     <Compile Include="Assets\DreamForestTree\PostProcessing\Runtime\Models\ScreenSpaceReflectionModel.cs" />
@@ -85,6 +86,7 @@
     <Compile Include="Assets\DreamForestTree\PostProcessing\Runtime\PostProcessingComponent.cs" />
     <Compile Include="Assets\DreamForestTree\PostProcessing\Runtime\Models\ColorGradingModel.cs" />
     <Compile Include="Assets\DreamForestTree\PostProcessing\Runtime\Models\MotionBlurModel.cs" />
+    <Compile Include="Assets\Scripts\PuzzleManager.cs" />
     <Compile Include="Assets\DreamForestTree\PostProcessing\Runtime\Models\AntialiasingModel.cs" />
     <Compile Include="Assets\DreamForestTree\PostProcessing\Runtime\Utils\ColorGradingCurve.cs" />
     <Compile Include="Assets\TutorialInfo\Scripts\Readme.cs" />
@@ -93,7 +95,6 @@
     <Compile Include="Assets\DreamForestTree\PostProcessing\Runtime\PostProcessingProfile.cs" />
     <Compile Include="Assets\DreamForestTree\PostProcessing\Runtime\Models\BloomModel.cs" />
     <Compile Include="Assets\DreamForestTree\PostProcessing\Runtime\Models\EyeAdaptationModel.cs" />
-    <Compile Include="Assets\PuzzlePiece.cs" />
     <Compile Include="Assets\DreamForestTree\Script\FreeCam.cs" />
     <Compile Include="Assets\GameManager.cs" />
     <Compile Include="Assets\DreamForestTree\PostProcessing\Runtime\Components\BuiltinDebugViewsComponent.cs" />
@@ -101,16 +102,15 @@
     <Compile Include="Assets\DreamForestTree\PostProcessing\Runtime\Utils\MaterialFactory.cs" />
     <Compile Include="Assets\DreamForestTree\PostProcessing\Runtime\Attributes\TrackballGroupAttribute.cs" />
     <Compile Include="Assets\DreamForestTree\Script\ScrollUVWater.cs" />
-    <Compile Include="Assets\Hand_script.cs" />
     <Compile Include="Assets\DreamForestTree\PostProcessing\Runtime\Models\BuiltinDebugViewsModel.cs" />
+    <Compile Include="Assets\Scripts\Lights Flicker.cs" />
     <Compile Include="Assets\DreamForestTree\PostProcessing\Runtime\Models\GrainModel.cs" />
     <Compile Include="Assets\DreamForestTree\PostProcessing\Runtime\PostProcessingModel.cs" />
     <Compile Include="Assets\DreamForestTree\PostProcessing\Runtime\Components\AmbientOcclusionComponent.cs" />
-    <Compile Include="Assets\KeypadController.cs" />
     <Compile Include="Assets\DreamForestTree\PostProcessing\Runtime\PostProcessingBehaviour.cs" />
     <Compile Include="Assets\DreamForestTree\PostProcessing\Runtime\Models\UserLutModel.cs" />
+    <Compile Include="Assets\Scripts\Hand_script.cs" />
     <Compile Include="Assets\DreamForestTree\PostProcessing\Runtime\Components\FogComponent.cs" />
-    <Compile Include="Assets\PuzzleManager.cs" />
     <Compile Include="Assets\DreamForestTree\PostProcessing\Runtime\Attributes\TrackballAttribute.cs" />
   </ItemGroup>
   <ItemGroup>
