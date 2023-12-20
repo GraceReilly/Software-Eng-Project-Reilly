@@ -7,9 +7,8 @@
 | Attempt | Description |
 | ------- | ----------- |
 | 1.      | Implemented light flickering to create a broken light effect successfully. |
-| 2.      | Designed a puzzle where three cubes fit into a container, and the lid lifts open to reveal a 4-digit code. |
-| 3.      | Developed a code keypad allowing players to enter a code. If correct, they are informed of the success of the correct password and same idea of the wrong password is entered. |
-| 4.      | Added a stopwatch countdown, displaying a timer on a TV counting down from when the game begins. |
+| 2.      | Added a stopwatch countdown, displaying a timer on a TV counting down from when the game begins. |
+| 3.      | Added in teleport anchor. |
 
 ## Things that didn't work out:
 
@@ -19,6 +18,8 @@
 | 2.      | Tried to implement a ladder-climbing mechanism, encountering difficulties in achieving smooth interaction for the hand controllers. |
 | 3.      | Explored custom animated movement for VR hands, but struggled to get working.|
 | 4.      | Added a Mixamo animation, but found that it didn't suit the intended style and atmosphere of the game. |
+| 5.      | Designed a puzzle where three cubes fit into a container using a sockett interactable however didnt get the lid animation to work |
+| 6.      | Developed a code keypad allowing players to enter a code, however I had issues with this also not working correctly. |
 
 # Core Features of the VR Escape Room Game:
 
