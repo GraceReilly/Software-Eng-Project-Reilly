@@ -100,6 +100,8 @@
 | 11. | - https://www.youtube.com/watch?v=bYS35_hC6B0&t=253s&ab_channel=Valem |
 | 12. | - https://www.youtube.com/watch?v=oOmAB0rs518&t=140s&ab_channel=User1Productions |
 | 13. | - https://www.youtube.com/watch?v=8xIxXkXn26M&ab_channel=FistFullofShrimp |
+| 14. | - https://www.youtube.com/watch?v=ExHHhei6fnw&t=8s&ab_channel=StudioHamlin |
+| 15. | - https://www.youtube.com/watch?v=uOhWT6TxZgE&ab_channel=GabrielAguiarProd. |
 
 
 
