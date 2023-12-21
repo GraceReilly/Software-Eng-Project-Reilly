@@ -85,7 +85,7 @@
 
 
 
-| Links Youtube |
+| No. | Youtube Tutorials |
 | ------- | ----------- |
 | 1. | - https://www.youtube.com/watch?v=YISa0PvQTGk&ab_channel=FistFullofShrimp |
 | 2. | - https://www.youtube.com/watch?v=iSYfs6NXZck&t=1466s&ab_channel=DanielStringer |
