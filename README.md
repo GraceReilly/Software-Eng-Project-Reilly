@@ -82,11 +82,24 @@
 | Light Flickering Script **Encapsulation** | - The light flickering script includes encapsulation by using public field for 'lightOB' and 'lightSound'. |
 | Light Flickering Script **Composition** | - The light flickering script includes composition as it has existing components from unity such as audioSource and Light. |
 | Light Flickering Script **Encapsulation** | - The light flickering script includes encapsulation by using private fields such as 'minTime' & 'timer'. |
-| Wrist UI Script **Composition** | - The wrist UI script has 'canvas' component. |
-| Wrist UI Script **Abstraction** | - The wrist UI script uses abstraction as it has the 'toggleMenu' method for toggling between the visibility of the wrist menu. |
-| Puzzle Piece Script **Composition** | - The script has the XRSocketInteractor which is useed to allow the puzzle piece to interact with the sockets in the XR toolkit. |
-| Puzzle Piece Script **Design Pattern** | - has a pattern using event listeners such as 'selectEntered' & 'selectExited' for the XRSocketInteractor. |
-| Puzzle Piece Script **Abstraction Pattern** | - uses abstract methods for object removal and object snapping. The methods such as 'objectSnapped' and 'ObjectRemoved' |
+
+
+
+| Links Youtube |
+| ------- | ----------- |
+| 1. | - https://www.youtube.com/watch?v=YISa0PvQTGk&ab_channel=FistFullofShrimp |
+| 2. | - https://www.youtube.com/watch?v=iSYfs6NXZck&t=1466s&ab_channel=DanielStringer |
+| 3. | - https://www.youtube.com/watch?v=-YZtDzdvNJ4&t=227s&ab_channel=DanielStringer |
+| 4. | - https://www.youtube.com/watch?v=hz_iVyYO-MY&t=17s&ab_channel=DanielStringer |
+| 5. | - https://www.youtube.com/watch?v=1qu1CiiJGAw&ab_channel=20Nik |
+| 6. | - https://www.youtube.com/watch?v=sHE5ubsP-E8&t=479s&ab_channel=JustinPBarnett |
+| 7. | - https://www.youtube.com/watch?v=ZPJpTmNBZIQ&t=872s&ab_channel=DanielStringer |
+| 8. | - https://www.youtube.com/watch?v=8pgi1TBGCKM&t=988s&ab_channel=UnityVirtualProduction%26Filmmaking%28HDRP%2BURP%29 |
+| 9. | - https://www.youtube.com/watch?v=MBVGUD5nZeA&ab_channel=LordEvilM44 |
+| 10. | - https://www.youtube.com/watch?v=1JZ62Us3RI0&t=12s&ab_channel=FistFullofShrimp |
+| 11. | - https://www.youtube.com/watch?v=bYS35_hC6B0&t=253s&ab_channel=Valem |
+| 12. | - https://www.youtube.com/watch?v=oOmAB0rs518&t=140s&ab_channel=User1Productions |
+| 13. | - https://www.youtube.com/watch?v=8xIxXkXn26M&ab_channel=FistFullofShrimp |
 
 
 
